@@ -1,1 +1,1 @@
-# Lab01-StatystykiWyraz-w
+# Lab01-StatystykiWyrazów
